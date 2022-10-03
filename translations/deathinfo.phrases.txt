@@ -1,0 +1,31 @@
+"Phrases"
+{
+	"DeathInfo_Dead"
+	{
+		"#format"	"{1:N},{2:s},{3:d}"
+		"pl" 		"★ {lightred}[Smierć]{yellow} Gracz {lightred}{1} {yellow}zabił cię z broni: {green}{2}"
+		"en" 		"★ {lightred}[Death Info]{yellow} Player {lightred}{1} {yellow}killed you with: {green}{2}"
+		"de" 		"★ {lightred}[Infos zum Tod]{yellow} Spieler {lightred}{1} {yellow}Sie mit einer Pistole getötet: {green}{2}"
+		"fr" 		"★ {lightred}[Info sur la mort]{yellow} Joueur {lightred}{1} {yellow}vous a tué avec un pistolet: {green}{2}"
+		"ru" 		"★ {lightred}[Информация о смерти]{yellow} Игрок {lightred}{1} {yellow}убил вас: {green}{2}"
+		"cze" 		"★ {lightred}[Informace o úmrtí]{yellow} Hráč {lightred}{1} {yellow}vás zabil pomocí: {green}{2}"
+	}
+    "DeathInfo_Hp"
+	{
+		"pl" 		"★ {lightred}[Smierć]{yellow} Pozostało mu: {green}{3}HP"
+		"en" 		"★ {lightred}[Death Info]{yellow} It was left: {green}{3}HP"
+		"de" 		"★ {lightred}[Infos zum Tod]{yellow} Es wurde verlassen: {green}{3}HP"
+		"fr" 		"★ {lightred}[Info sur la mort]{yellow} Il a été laissé: {green}{3}HP"
+		"ru" 		"★ {lightred}[Информация о смерти]{yellow} Он был оставлен: {green}{3}HP"
+		"cze" 		"★ {lightred}[Informace o úmrtí]{yellow} Bylo ponecháno: {green}{3}HP!"
+	}
+    "DeathInfo_Assist"
+	{
+		"pl" 		"★ {lightred}[Smierć]{yellow} Przy zabójstwie asystował: {green}{1}"
+		"en" 		"★ {lightred}[Death Info]{yellow} Assisted by: {green}{1}"
+		"de" 		"★ {lightred}[Infos zum Tod]{yellow} Assistiert von: {green}{1}"
+		"fr" 		"★ {lightred}[Info sur la mort]{yellow} Assisté par: {green}{1}"
+		"ru" 		"★ {lightred}[Информация о смерти]{yellow} При содействии: {green}{1}"
+		"cze" 		"★ {lightred}[Informace o úmrtí]{yellow} Asistence: {green}{1}"
+	}
+}
