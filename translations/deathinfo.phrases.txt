@@ -2,7 +2,7 @@
 {
 	"DeathInfo_Dead"
 	{
-		"#format"	"{1:N},{2:s},{3:d}"
+		"#format"	"{1:N},{2:s}"
 		"pl" 		"★ {lightred}[Smierć]{yellow} Gracz {lightred}{1} {yellow}zabił cię z broni: {green}{2}"
 		"en" 		"★ {lightred}[Death Info]{yellow} Player {lightred}{1} {yellow}killed you with: {green}{2}"
 		"de" 		"★ {lightred}[Infos zum Tod]{yellow} Spieler {lightred}{1} {yellow}Sie mit einer Pistole getötet: {green}{2}"
@@ -12,6 +12,7 @@
 	}
     "DeathInfo_Hp"
 	{
+	        "#format"	"{3:d}"
 		"pl" 		"★ {lightred}[Smierć]{yellow} Pozostało mu: {green}{3}HP"
 		"en" 		"★ {lightred}[Death Info]{yellow} It was left: {green}{3}HP"
 		"de" 		"★ {lightred}[Infos zum Tod]{yellow} Es wurde verlassen: {green}{3}HP"
@@ -21,6 +22,7 @@
 	}
     "DeathInfo_Assist"
 	{
+		"#format"	"{1:N}"
 		"pl" 		"★ {lightred}[Smierć]{yellow} Przy zabójstwie asystował: {green}{1}"
 		"en" 		"★ {lightred}[Death Info]{yellow} Assisted by: {green}{1}"
 		"de" 		"★ {lightred}[Infos zum Tod]{yellow} Assistiert von: {green}{1}"
